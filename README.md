@@ -67,10 +67,12 @@ multimodal_emotion_classification/
 │ ├── train.py
 │ └── test.py
 │
-├── Results/
+├── results/
 │ ├── accuracy_tables/
 │ └── plots/
 │
+├── Multimodel Emotion Recognition Report.pdf
+├── combined_table.py
 ├── prepare_metadata.py
 ├── precompute_spectrograms.py
 ├── visualize_embeddings.py
